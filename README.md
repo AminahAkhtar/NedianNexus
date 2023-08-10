@@ -40,4 +40,4 @@ buyer.
 ![screenshot](https://github.com/sidramwaseem/Nedian-Nexus/blob/main/screenshots/quickView.png?raw=true)
 
 ## Contact Me
-- LinkedIn - [aminahakhtar](https://www.linkedin.com/in/aminahakhtar/)
+- LinkedIn - [aminahakhtar](https://www.linkedin.com/in/aminahakhtar30/)
